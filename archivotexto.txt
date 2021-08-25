@@ -1,0 +1,34 @@
+Definicion de Variables:
+
+Es como una caja en la que se guarda algo.
+En algun momento se puede guardar por ej: un libro y en otro momento sacar ese libro y guardar unas zapatillas.
+Siempre que se me ocurra puedo guardar cualquier cosa.
+
+Definicion de Strigs:
+
+Es la suma de la cantidad de letras que tienen las palabras.
+por ejemplo Perro , tiene cinco letras.
+otro ejemplo  Martillo , tiene ocho letras.
+
+Funciones: Son las tareas que le escribo a la computadora para que haga lo que le digo.
+
+Argumentos: Es la condicion que tiene q entender la computadora para que realice las tareas.
+por ejemplo , un argumento seria mientras sea de dia , no prendas la luz de afuera.
+solo va a prender la luz cuando sea de noche.
+
+Return: Seria que ejecute la tarea. En el ejemplo anterior , cuando sea de noche va a prender la luz.
+
+If: Es significa "si en castellano" , es una condicion que tiene que entender la computaroda para hacer las tareas.
+por ejemplo le puedo escribir lo siguiente:
+si el dia esta soleado , encende el riego.
+
+solo va a encender el riego si hay sol. Si esta nublado o llueve ,no va a encender el riego.
+
+Valores Booleanos:
+
+Le voy a escribir una condicion  a La computadora y esta me va a decir si algo es Verdadero o Falso.
+por ej: Si hoy es lunes , tengo clases de Ingles.
+La computadora me va a decir mientras sea lunes , que es verdadero.
+Si es otro dia , me va a decir que es falso.
+
+

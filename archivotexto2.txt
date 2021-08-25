@@ -32,4 +32,4 @@ La computadora me va a decir mientras sea lunes , que es verdadero.
 Si es otro dia , me va a decir que es falso.
 
 
-
+ls

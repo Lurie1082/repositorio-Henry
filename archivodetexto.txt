@@ -1,0 +1,28 @@
+Definicion de Sentencia For:
+
+Es como una cajita en la que se guardan cosas , mientras las voy contando y hasta llegar a cierto numero.
+por ejemplo: Por ejemplo en cajita de te entran 50 saquitos.
+entonces al vacia la cajita , los voy agregando de a uno , hasta que la cajita este llena con los 50 saquitos.
+
+Sentencia &&:
+
+&& significa el termino Y en castellano. Lo que hace elegir entre  dos o mas cosas , personas , situaciones.
+por ejemplo , cuando decimos quiero un helado chocolate Y frutilla.
+o cuando nombramos a dos personas , Pablo Y Marina.
+
+
+Senticia ||:
+
+||  significa el termino O en castellano. Lo que hace elegir entre  una u otra  cosas  , situaciones.
+por ejemplo , cuando decimos quiero un jugo que puedes ser de Manzana o Naranja.
+Otro ejemplo quiero ver una pelicula de Terror o de Comedia.
+Otro ejemplo , podemos irnos de vacaciones a Mar del plata o a Cordoba.
+
+Sentencia not:
+
+!  significa el termino NO en castellano. Lo que hace decir que no a   cosas  , situaciones.
+por ejemplo , cuando decimos no quiero ir al colegio.
+Otro ejemplo no quiero hacer la tarea.
+Otro ejemplo ,no quiero jugar con mi hernama.
+
+
